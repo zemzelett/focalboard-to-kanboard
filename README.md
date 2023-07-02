@@ -1,6 +1,8 @@
 # Focalboard to Kanboard migration
 
-I've written a blog post if you're interested in a bit more insight.
+I've written a
+[blog post](https://minoklu.com/posts/migrate-focalboard-boards-to-kanboard/) if
+you're interested in a bit more insight.
 
 ## How to use
 
